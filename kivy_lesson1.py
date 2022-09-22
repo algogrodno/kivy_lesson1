@@ -133,3 +133,4 @@ class MyApp(App):
  
 MyApp().run()
 
+#py 2.py -m screen:phone_iphone_5, portrait, scale=.5
